@@ -4,6 +4,6 @@ Hello World, my name is Toma Frost and I am super excited to go on this journey 
 
 ## Table of Contents 
 
-- [Growth Mindset]()
+- [Growth Mindset](https://tfrost0913.github.io/Growth-Mindset/)
 - [Coder's Computer]()
 - [Revision and the Cloud]()
