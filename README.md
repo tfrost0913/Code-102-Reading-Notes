@@ -6,4 +6,4 @@ Hello World, my name is Toma Frost and I am super excited to go on this journey 
 
 - [Growth Mindset](https://tfrost0913.github.io/Growth-Mindset/)
 - [Coder's Computer](https://tfrost0913.github.io/Coders-Computer/)
-- [Revision and the Cloud]()
+- [Revision and the Cloud](https://tfrost0913.github.io/Revision-and-the-cloud/)
